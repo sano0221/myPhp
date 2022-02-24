@@ -11,6 +11,8 @@ class Human
     
     public function _const()
     {
-        
+
     }
+
+    echo "Hello";
 }
