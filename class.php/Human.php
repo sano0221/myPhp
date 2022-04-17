@@ -2,8 +2,7 @@
 
 declare(strict_types=1);
 
-class Human
-
+class Human∂
 {
     public $name;
     public $hitPoint;
@@ -16,3 +15,7 @@ class Human
 
     echo "Hello";
 }
+
+
+
+
